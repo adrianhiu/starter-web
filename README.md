@@ -10,4 +10,8 @@ This is an example purpose.
 
 ## Deployment
 
+This is an example deployment. 
+
 ## How to Contribute 
+
+This is an example message. 
