@@ -14,7 +14,7 @@ This is an example deployment.
 
 ## How to Contribute 
 
-This is an example message. 
+please fork this repository then issue pull request . 
 
 ## Copyright
 
