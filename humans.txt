@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    adrian hiu> -- adrian@hiu.com -- @adrianhiu>
 
 # THANKS
 
