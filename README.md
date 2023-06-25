@@ -20,4 +20,4 @@ please fork this repository then issue pull request .
 
 ## Copyright
 
-copyright 
+copyright. All rights reserved
